@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="first">Welcome to first page</string>
+    <string name="second">Welcome to second page</string>
+    <string name="btn_first">Goto page 2</string>
+    <string name="btn_second">Goto page 1</string>
+</resources>
