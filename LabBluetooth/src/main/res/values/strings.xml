@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabBluetooth</string>
+    <string name="bluetooth">Bluetooth ka dongle</string>
+    <string name="switchStr">Bluetooth Switch</string>
+</resources>
